@@ -1,1 +1,4 @@
-./__pycache__
+venv/
+mlruns/
+logs/
+mlops_02.egg-info/
